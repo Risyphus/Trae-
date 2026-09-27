@@ -1,6 +1,6 @@
 {
     "notes":  "修复设置页无法保存修改\n- 存储目录输入框创建行缺失导致保存链路中断，已修复\n- 其余内容与 v2.5.0 一致（液态玻璃界面 / 交互优化）",
-    "url":  "https://YOUR_UPDATE_HOST/trae-tavern-proxy-v2.5.1.exe",
+    "url":  "https://github.com/Risyphus/Trae-/releases",
     "version":  "2.5.1",
     "sha256":  "eae3bf503c299de10855062c60ce9b7c92aecc53736f37b240ff7591591dd9a3"
 }
