@@ -1,6 +1,6 @@
 {
-    "notes":  "修复设置页无法保存修改\n- 存储目录输入框创建行缺失导致保存链路中断，已修复\n- 其余内容与 v2.5.0 一致（液态玻璃界面 / 交互优化）",
-    "url":  "https://github.com/Risyphus/Trae-/releases/download/1/trae-tavern-proxy-v2.5.1.exe",
-    "version":  "2.5.1",
-    "sha256":  "eae3bf503c299de10855062c60ce9b7c92aecc53736f37b240ff7591591dd9a3"
+    "notes":  "修复自动更新交换脚本死循环\n- 等待旧进程退出改用直接循环覆盖重试，不再匹配 PID\n- 更新过程控制台窗口全程隐藏\n- 覆盖失败自动重试，避免文件锁竞态",
+    "url":  "https://github.com/Risyphus/Trae-/releases/download/2.5.2/trae-tavern-proxy-v2.5.2.exe",
+    "version":  "2.5.2",
+    "sha256":  "acd124c23aa2994c4c55e411c0de4a63999ea8cdac106c01e8e47a087326df0f"
 }
