@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
-  "url": "https://github.com/Risyphus/Trae-/releases/download/0.5.1/trae-tavern-proxy-v0.5.1.exe",
-  "sha256": "3fbc9ce5f19705cd0072da4c1dda48924ebbd714def9fff05144998fc024ade5",
-  "notes": "界面：中英文与数字字体统一（英文/数字 Helvetica，中文思源黑体）。更新：检查更新自动重试（最多 3 次）；下载支持断点续传。"
+  "version": "0.5.2",
+  "url": "https://github.com/Risyphus/Trae-/releases/download/0.5.2/trae-tavern-proxy-v0.5.2.exe",
+  "sha256": "52e1f4ba06210938ef0635f48412d22df2eb628cd75954edf674dd99b2baaab9",
+  "notes": "修复：更新完成后程序未自动替换重启的问题（交换脚本改由系统计划任务执行）。优化：更新安装后文件名自动同步为新版本号。"
 }
