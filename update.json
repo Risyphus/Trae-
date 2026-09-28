@@ -1,6 +1,6 @@
 {
-    "notes":  "修复自动更新交换脚本死循环\n- 等待旧进程退出改用直接循环覆盖重试，不再匹配 PID\n- 更新过程控制台窗口全程隐藏\n- 覆盖失败自动重试，避免文件锁竞态",
-    "url":  "https://github.com/Risyphus/Trae-/releases/download/2.5.2/trae-tavern-proxy-v2.5.2.exe",
-    "version":  "2.5.2",
-    "sha256":  "acd124c23aa2994c4c55e411c0de4a63999ea8cdac106c01e8e47a087326df0f"
+  "version": "0.5.1",
+  "url": "https://github.com/Risyphus/Trae-/releases/download/0.5.1/trae-tavern-proxy-v0.5.1.exe",
+  "sha256": "3fbc9ce5f19705cd0072da4c1dda48924ebbd714def9fff05144998fc024ade5",
+  "notes": "界面：中英文与数字字体统一（英文/数字 Helvetica，中文思源黑体）。更新：检查更新自动重试（最多 3 次）；下载支持断点续传。"
 }
