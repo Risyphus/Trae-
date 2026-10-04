@@ -1,6 +1,6 @@
 {
   "version": "0.5.3",
   "url": "https://github.com/Risyphus/Trae-/releases/download/0.5.3/trae-tavern-proxy-v0.5.3.exe",
-  "sha256": "2a390fc65f6580858fd71a89762ee019e9c264f9e555783fd0200fa974c65a4a",
-  "notes": "新增：用量信息模块增加「白嫖金额」柱形图（黄橙系冷暖对比、支持各模型费用明细与单价配置抽屉）。优化：增加 Token 用量与白嫖金额柱形图卡片间距及柱体水平间隔，提升视觉舒适度。"
+  "sha256": "a730e75e5af72a12da4d37c44a5e526be8ec65d14866ed5127dcb216b10b4cbd",
+  "notes": "修复：重新打包 v0.5.3，补全被遗漏的运行时依赖（agent-base 所需的 debug / ms），解决启动时「Cannot find module 'debug'」崩溃。功能：用量信息新增「白嫖金额」柱形图、模型单价配置抽屉、各模型费用明细；优化图表间距。"
 }
