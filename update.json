@@ -1,6 +1,6 @@
 {
-  "version": "0.5.2",
-  "url": "https://github.com/Risyphus/Trae-/releases/download/0.5.2/trae-tavern-proxy-v0.5.2.exe",
-  "sha256": "52e1f4ba06210938ef0635f48412d22df2eb628cd75954edf674dd99b2baaab9",
-  "notes": "修复：更新完成后程序未自动替换重启的问题（交换脚本改由系统计划任务执行）。优化：更新安装后文件名自动同步为新版本号。"
+  "version": "0.5.3",
+  "url": "https://github.com/Risyphus/Trae-/releases/download/0.5.3/trae-tavern-proxy-v0.5.3.exe",
+  "sha256": "2a390fc65f6580858fd71a89762ee019e9c264f9e555783fd0200fa974c65a4a",
+  "notes": "新增：用量信息模块增加「白嫖金额」柱形图（黄橙系冷暖对比、支持各模型费用明细与单价配置抽屉）。优化：增加 Token 用量与白嫖金额柱形图卡片间距及柱体水平间隔，提升视觉舒适度。"
 }
