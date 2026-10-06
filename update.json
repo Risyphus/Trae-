@@ -1,6 +1,6 @@
 {
-  "version": "0.5.3",
-  "url": "https://github.com/Risyphus/Trae-/releases/download/0.5.3/trae-tavern-proxy-v0.5.3.exe",
-  "sha256": "a730e75e5af72a12da4d37c44a5e526be8ec65d14866ed5127dcb216b10b4cbd",
-  "notes": "修复：重新打包 v0.5.3，补全被遗漏的运行时依赖（agent-base 所需的 debug / ms），解决启动时「Cannot find module 'debug'」崩溃。功能：用量信息新增「白嫖金额」柱形图、模型单价配置抽屉、各模型费用明细；优化图表间距。"
+    "version":  "0.5.4",
+    "url":  "https://github.com/Risyphus/Trae-/releases/download/0.5.4/trae-tavern-proxy-v0.5.4.exe",
+    "sha256":  "6c691b0fc46086236cdee81be419360aea62a6fb2ce966f613288137c4e05afc",
+    "notes":  "新增「最小化到托盘」增强\n- 首次关闭主窗口时弹窗选择：最小化到托盘 / 完全关闭软件，可勾选「记住我的选择」\n- 系统托盘常驻：隐藏后代理服务继续运行，托盘右键菜单含 显示主窗口 / 启动服务 / 停止服务 / 打开日志 / 退出\n- 设置页新增「窗口 · 关闭主窗口时」三态选项，保存即时生效\n- 关闭偏好持久化于 config.json，缺失或损坏时自动回落「每次询问」\n修复\n- 修复主题引擎报「initApi is not defined」导致主题初始化中断，深浅色/跟随系统设置现于启动时正确应用"
 }
